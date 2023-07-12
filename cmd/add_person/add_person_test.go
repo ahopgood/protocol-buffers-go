@@ -19,7 +19,7 @@ mobile
 111-111-1111
 work
 777-777-7777
-unknown
+mobile
 
 `
 	got, err := promptForAddress(strings.NewReader(in))
